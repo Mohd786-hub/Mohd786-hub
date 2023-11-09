@@ -1,4 +1,4 @@
-<h3>Hactoberfest 2023 Badges Collection</h3>
+
 [![An image of @mohdfaisal786's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohdfaisal786)](https://holopin.io/@mohdfaisal786)
 <h1 align="center">Hi 👋, I'm Mohd Faisal</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
